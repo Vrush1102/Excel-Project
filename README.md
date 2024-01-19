@@ -7,10 +7,10 @@ Project Description: - The analysis aims to leverage data-driven approaches to o
 Microsoft Excel 
 
 ## Tasks:
-Import the Dataset
-Data Cleaning and Formatting
-Create Pivot Tables
-Create charts (bar charts, pie charts, etc.)
-Dashboard Design
-Data Visualization
+* [] Import the Dataset
+* [] Data Cleaning and Formatting
+* [] Create Pivot Tables
+* [] Create charts (bar charts, pie charts, etc.)
+* [] Dashboard Design
+* [] Data Visualization
 
